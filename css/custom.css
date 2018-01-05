@@ -1,0 +1,7 @@
+.customTable{
+	height: 150px;
+	width: 150px;
+	border: 5px solid black;
+	font-size: 80px;
+	text-align: center;
+}
