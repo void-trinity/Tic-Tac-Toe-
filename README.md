@@ -1,2 +1,10 @@
 # Tic-Tac-Toe-
-A simple two player game. Made for practising the basics of javascript. Use of materialise CSS(not really though). Further improvements of GUI will be done on this framework only.
+Yes, the game is here. A simple 2 player game and everyone knows thr rule.
+
+# Back Story
+This game was made so as to practise the basics of javascript. 
+
+# Future Advancements
+None!
+
+# Screenshots
